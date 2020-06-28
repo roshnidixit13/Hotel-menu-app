@@ -1,0 +1,10 @@
+[
+{"name": "Dal Makhni","id":"1","price":"100","image_URL":"../assets/images/1.jpg"},
+{"name": "Sahi Paneer","id":"2","price":"150","image_URL":"../assets/images/2.jpg"},
+{"name": "Rajma Rice","id":"2","price":"150","image_URL":"../assets/images/3.jpg"},
+{"name": "Kadhai Paneer","id":"3","price":"100","image_URL":"../assets/images/4.jpg"},
+{"name": "Malai Chaap","id":"4","price":"200","image_URL":"../assets/images/5.jpg"},
+{"name": "Malai Koftey","id":"5","price":"120","image_URL":"../assets/images/6.jpg"},
+{"name": "Palak Paneer","id":"6","price":"150","image_URL":"../assets/images/7.jpg"},
+{"name": "Paneer Makhani","id":"7","price":"140","image_URL":"../assets/images/8.jpg"}
+]

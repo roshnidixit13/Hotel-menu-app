@@ -1,0 +1,43 @@
+ <div class="container">
+<div class="container_in"
+style="text-align:center">
+  <div class="header">
+  <h1>
+      MENU
+  </h1>
+  </div>
+  <!-- <div class="item_count"> -->
+  <ul *ngFor="let item of itemList">
+     <li>
+       
+        Item  : {{item.name}}
+
+        price  : {{item.price}}
+
+        
+  
+        
+<form>
+  <div class="value-button" id="decrease" (click)="AddItem(item.id)" value="Decrease Value">+</div>
+  <!-- <input type="number" id="number" value="" /> -->
+  <div class="value-button" id="increase" (click)="DeleteItem(item.id)" value="Increase Value">-</div>
+</form>
+<!-- </div>s -->
+     </li>
+     </ul>
+
+  
+<!-- <div class="onclickbutton"> -->
+
+<button class="onclickbutton" (click)="ClickButton()"> Place Order</button>
+<!-- </div> -->
+</div>
+</div>
+
+
+
+
+
+
+
+              
